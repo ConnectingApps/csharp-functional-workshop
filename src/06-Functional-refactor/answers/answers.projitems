@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>16695c39-ca06-42a7-bc67-367abce43b41</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>answers</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Card.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CardSuit.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CardValue.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)EvalExtensions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FiveCardPokerScorer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Hand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Rank.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Ranker.cs" />
+  </ItemGroup>
+</Project>
