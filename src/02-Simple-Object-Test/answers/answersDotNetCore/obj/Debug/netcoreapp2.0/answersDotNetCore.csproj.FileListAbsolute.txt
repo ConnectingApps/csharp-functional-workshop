@@ -1,0 +1,9 @@
+C:\Users\Daan\Documents\Visual Studio 2017\Projects\csharp-functional-workshop\src\02-Simple-Object-Test\answers\answersDotNetCore\bin\Debug\netcoreapp2.0\answersDotNetCore.deps.json
+C:\Users\Daan\Documents\Visual Studio 2017\Projects\csharp-functional-workshop\src\02-Simple-Object-Test\answers\answersDotNetCore\bin\Debug\netcoreapp2.0\answersDotNetCore.dll
+C:\Users\Daan\Documents\Visual Studio 2017\Projects\csharp-functional-workshop\src\02-Simple-Object-Test\answers\answersDotNetCore\bin\Debug\netcoreapp2.0\answersDotNetCore.pdb
+C:\Users\Daan\Documents\Visual Studio 2017\Projects\csharp-functional-workshop\src\02-Simple-Object-Test\answers\answersDotNetCore\obj\Debug\netcoreapp2.0\answersDotNetCore.csprojResolveAssemblyReference.cache
+C:\Users\Daan\Documents\Visual Studio 2017\Projects\csharp-functional-workshop\src\02-Simple-Object-Test\answers\answersDotNetCore\obj\Debug\netcoreapp2.0\answersDotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Daan\Documents\Visual Studio 2017\Projects\csharp-functional-workshop\src\02-Simple-Object-Test\answers\answersDotNetCore\obj\Debug\netcoreapp2.0\answersDotNetCore.AssemblyInfoInputs.cache
+C:\Users\Daan\Documents\Visual Studio 2017\Projects\csharp-functional-workshop\src\02-Simple-Object-Test\answers\answersDotNetCore\obj\Debug\netcoreapp2.0\answersDotNetCore.AssemblyInfo.cs
+C:\Users\Daan\Documents\Visual Studio 2017\Projects\csharp-functional-workshop\src\02-Simple-Object-Test\answers\answersDotNetCore\obj\Debug\netcoreapp2.0\answersDotNetCore.dll
+C:\Users\Daan\Documents\Visual Studio 2017\Projects\csharp-functional-workshop\src\02-Simple-Object-Test\answers\answersDotNetCore\obj\Debug\netcoreapp2.0\answersDotNetCore.pdb

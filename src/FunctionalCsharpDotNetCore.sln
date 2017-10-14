@@ -83,6 +83,10 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Tests", "05-Sequences\answe
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Tests", "06-Functional-refactor\answers\Tests\Tests.shproj", "{11F1A054-E5DE-4CD8-89BB-F3B0C3BF226B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "answersDotNetCore", "02-Simple-Object-Test\answers\answersDotNetCore\answersDotNetCore.csproj", "{29A67226-E0A8-42AE-9BAC-234E995DD8A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestsDotNetCore", "02-Simple-Object-Test\answers\Tests\TestsDotNetCore\TestsDotNetCore.csproj", "{473BF9E6-B235-41C6-A4BD-C6302AD0D68F}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		06-Functional-refactor\answers\Tests\Tests.projitems*{11f1a054-e5de-4cd8-89bb-f3b0c3bf226b}*SharedItemsImports = 13
@@ -101,6 +105,20 @@ Global
 		05-Sequences\answers\first-pass\first-pass.projitems*{e4ae5ec2-f435-4158-9313-9b34fa81361c}*SharedItemsImports = 13
 		06-Functional-refactor\answers\answers.projitems*{f3e15bb1-ca1b-4696-8686-b22a661afc5d}*SharedItemsImports = 13
 		03-Hand\answers\refactored\Tests\Tests.projitems*{fac4fe8e-a4c1-490f-87ae-8f82efe780a3}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29A67226-E0A8-42AE-9BAC-234E995DD8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A67226-E0A8-42AE-9BAC-234E995DD8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A67226-E0A8-42AE-9BAC-234E995DD8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A67226-E0A8-42AE-9BAC-234E995DD8A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{473BF9E6-B235-41C6-A4BD-C6302AD0D68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473BF9E6-B235-41C6-A4BD-C6302AD0D68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473BF9E6-B235-41C6-A4BD-C6302AD0D68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473BF9E6-B235-41C6-A4BD-C6302AD0D68F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -141,6 +159,8 @@ Global
 		{65CAEEFD-13BD-4BF9-8D00-529C87389075} = {326C943F-A0D5-4EB8-ADA1-6FF1A1CF2274}
 		{132F5D5A-1DA1-41F2-98B1-C6C503868BEB} = {0DFDA6ED-BFC8-42E6-ABFA-967C8EDA7F8A}
 		{11F1A054-E5DE-4CD8-89BB-F3B0C3BF226B} = {412CDA44-B28D-4DCA-827E-01A3CFCF625A}
+		{29A67226-E0A8-42AE-9BAC-234E995DD8A7} = {52C7DE37-485C-4B50-9DEA-FD2DBF5D5886}
+		{473BF9E6-B235-41C6-A4BD-C6302AD0D68F} = {EB3522FF-3A53-479C-82B1-94467922926A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8C89BC64-5634-4121-80B6-DBD7F890D1CA}
